@@ -42,13 +42,13 @@ function send() {
        	firstname: firstname,
        	lastname: lastname,
         city: city,
-        // country: data.country,
-        // ip: data.ip,
-        // loc: data.loc,
-        // internet: data.org,
-        // postal: data.postal,
-        // region: data.region,
-        // timezone: data.timezone
+        country: data.country,
+        ip: data.ip,
+        loc: data.loc,
+        internet: data.org,
+        postal: data.postal,
+        region: data.region,
+        timezone: data.timezone
     });
 }
 
