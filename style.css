@@ -1,0 +1,16 @@
+/* CSS3 Styles */
+
+.list-group {
+	width: fit-content;
+	margin-left:auto;
+	margin-right:auto;
+	cursor: default;
+}
+
+.list-group li {
+	font-weight: 600;
+}
+
+span {
+	color: red;
+}
